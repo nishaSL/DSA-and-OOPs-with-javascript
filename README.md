@@ -4,7 +4,7 @@ A practical, step-by-step collection of **Data Structures & Algorithms (DSA)** a
 
 This repository is my **learning and revision notebook** — a place where I break problems down into smaller steps, understand the approach, write the solution, and keep everything organized so it is easy to revisit later.
 
-## 🎯 Purpose
+## Purpose
 
 The goal of this repository is not just to collect solutions.
 
@@ -21,13 +21,13 @@ I am documenting questions and thought processes step by step so that, during re
 * Can it be optimized?
 * What is the time and space complexity?
 
-## 📚 Topics
+##  Topics
 
 The repository is organized by topic and will gradually grow into a personal DSA and OOP reference.
 
 
 ### DSA concepts
-# 1. Fundamentals
+#### 1. Fundamentals
 
 Time Complexity — Big O
 Space Complexity
@@ -36,7 +36,7 @@ Iteration vs Recursion
 Mathematical basics
 Bit Manipulation
 
-# 2. Arrays
+#### 2. Arrays
 Array traversal
 Insert / Delete
 Search
@@ -48,7 +48,7 @@ Two Pointers
 Sliding Window
 Matrix / 2D Arrays
 
-# 3. Strings
+#### 3. Strings
 String traversal
 Character frequency
 Anagrams
@@ -57,7 +57,7 @@ String manipulation
 Substrings / Subsequences
 Pattern matching
 
-# 4. Hashing
+#### 4. Hashing
 HashMap / Object / Map
 HashSet / Set
 Frequency counting
@@ -65,7 +65,7 @@ Duplicate detection
 Lookup optimization
 Two Sum pattern
 
-# 5. Linked List
+#### 5. Linked List
 Singly Linked List
 Doubly Linked List
 Insert / Delete
@@ -74,7 +74,7 @@ Fast & Slow Pointers
 Detect Cycle
 Merge Linked Lists
 
-# 6. Stack & Queue
+#### 6. Stack & Queue
 Stack:
 Push / Pop
 Valid Parentheses
@@ -87,13 +87,13 @@ Circular Queue
 Deque
 Priority Queue
 
-# 7. Searching
+#### 7. Searching
 Linear Search
 Binary Search
 Binary Search on Answer
 Search in Rotated Sorted Array
 
-# 8. Sorting
+#### 8. Sorting
 Bubble Sort
 Selection Sort
 Insertion Sort
@@ -102,7 +102,7 @@ Quick Sort
 Counting Sort
 Sorting patterns
 
-# 9. Trees
+#### 9. Trees
 Binary Tree
 Binary Search Tree
 DFS
@@ -114,7 +114,7 @@ Height / Depth
 Balanced Trees
 Lowest Common Ancestor
 
-# 10. Heap / Priority Queue
+#### 10. Heap / Priority Queue
 Min Heap
 Max Heap
 Heapify
@@ -122,7 +122,7 @@ Top K Problems
 Kth Largest / Smallest
 Priority Queue
 
-# 11. Graphs
+#### 11. Graphs
 Graph representation
 Adjacency Matrix
 Adjacency List
@@ -135,7 +135,7 @@ Shortest Path
 Dijkstra's Algorithm
 Union Find / DSU
 
-# 12. Recursion & Backtracking
+#### 12. Recursion & Backtracking
 Recursion patterns
 Subsets
 Permutations
@@ -144,14 +144,14 @@ Combination Sum
 N-Queens
 Maze problems
 
-# 13. Greedy Algorithms
+#### 13. Greedy Algorithms
 Activity Selection
 Fractional Knapsack
 Interval Problems
 Jump Game
 Merge Intervals
 
-# 14. Dynamic Programming
+#### 14. Dynamic Programming
 
 Start with:
 Memoization
@@ -166,7 +166,7 @@ Longest Common Subsequence
 Longest Increasing Subsequence
 Coin Change
 
-# 15. Advanced Concepts
+#### 15. Advanced Concepts
 
 Later, I can add:
 
@@ -189,7 +189,7 @@ Practical examples and exercises for understanding:
 * Abstraction
 * Composition
 
-## 🧠 My Approach to DSA
+##  My Approach to DSA
 
 Instead of trying to memorize hundreds of solutions, I am focusing on recognizing **problem-solving patterns**.
 
