@@ -4,7 +4,7 @@ A practical, step-by-step collection of **Data Structures & Algorithms (DSA)** a
 
 This repository is my **learning and revision notebook** — a place where I break problems down into smaller steps, understand the approach, write the solution, and keep everything organized so it is easy to revisit later.
 
-## Purpose
+## 🎯 Purpose
 
 The goal of this repository is not just to collect solutions.
 
@@ -21,164 +21,179 @@ I am documenting questions and thought processes step by step so that, during re
 * Can it be optimized?
 * What is the time and space complexity?
 
-##  Topics
+## 📚 Topics
 
-The repository is organized by topic and will gradually grow into a personal DSA and OOP reference.
+The repository is organized by topic and will gradually grow into a personal **DSA and OOP reference** for learning, practice, and revision.
 
+---
 
-### DSA concepts
-#### 1. Fundamentals
+## 🧠 DSA Concepts
 
-Time Complexity — Big O
-Space Complexity
-Recursion basics
-Iteration vs Recursion
-Mathematical basics
-Bit Manipulation
+### 1. Fundamentals
 
-#### 2. Arrays
-Array traversal
-Insert / Delete
-Search
-Sorting
-In-place operations
-Prefix Sum
-Kadane's Algorithm
-Two Pointers
-Sliding Window
-Matrix / 2D Arrays
+* Time Complexity — Big O
+* Space Complexity
+* Recursion Basics
+* Iteration vs Recursion
+* Mathematical Basics
+* Bit Manipulation
 
-#### 3. Strings
-String traversal
-Character frequency
-Anagrams
-Palindromes
-String manipulation
-Substrings / Subsequences
-Pattern matching
+### 2. Arrays
 
-#### 4. Hashing
-HashMap / Object / Map
-HashSet / Set
-Frequency counting
-Duplicate detection
-Lookup optimization
-Two Sum pattern
+* Array Traversal
+* Insert / Delete
+* Search
+* Sorting
+* In-place Operations
+* Prefix Sum
+* Kadane's Algorithm
+* Two Pointers
+* Sliding Window
+* Matrix / 2D Arrays
 
-#### 5. Linked List
-Singly Linked List
-Doubly Linked List
-Insert / Delete
-Reverse Linked List
-Fast & Slow Pointers
-Detect Cycle
-Merge Linked Lists
+### 3. Strings
 
-#### 6. Stack & Queue
-Stack:
-Push / Pop
-Valid Parentheses
-Monotonic Stack
-Next Greater Element
+* String Traversal
+* Character Frequency
+* Anagrams
+* Palindromes
+* String Manipulation
+* Substrings / Subsequences
+* Pattern Matching
 
-Queue:
-Enqueue / Dequeue
-Circular Queue
-Deque
-Priority Queue
+### 4. Hashing
 
-#### 7. Searching
-Linear Search
-Binary Search
-Binary Search on Answer
-Search in Rotated Sorted Array
+* HashMap / Object / Map
+* HashSet / Set
+* Frequency Counting
+* Duplicate Detection
+* Lookup Optimization
+* Two Sum Pattern
 
-#### 8. Sorting
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Counting Sort
-Sorting patterns
+### 5. Linked List
 
-#### 9. Trees
-Binary Tree
-Binary Search Tree
-DFS
-Preorder
-Inorder
-Postorder
-BFS / Level Order
-Height / Depth
-Balanced Trees
-Lowest Common Ancestor
+* Singly Linked List
+* Doubly Linked List
+* Insert / Delete
+* Reverse Linked List
+* Fast & Slow Pointers
+* Detect Cycle
+* Merge Linked Lists
 
-#### 10. Heap / Priority Queue
-Min Heap
-Max Heap
-Heapify
-Top K Problems
-Kth Largest / Smallest
-Priority Queue
+### 6. Stack & Queue
 
-#### 11. Graphs
-Graph representation
-Adjacency Matrix
-Adjacency List
-BFS
-DFS
-Connected Components
-Cycle Detection
-Topological Sort
-Shortest Path
-Dijkstra's Algorithm
-Union Find / DSU
+#### Stack
 
-#### 12. Recursion & Backtracking
-Recursion patterns
-Subsets
-Permutations
-Combinations
-Combination Sum
-N-Queens
-Maze problems
+* Push / Pop
+* Valid Parentheses
+* Monotonic Stack
+* Next Greater Element
 
-#### 13. Greedy Algorithms
-Activity Selection
-Fractional Knapsack
-Interval Problems
-Jump Game
-Merge Intervals
+#### Queue
 
-#### 14. Dynamic Programming
+* Enqueue / Dequeue
+* Circular Queue
+* Deque
+* Priority Queue
 
-Start with:
-Memoization
-Tabulation
-1D DP
-2D DP
-Fibonacci
-Climbing Stairs
-House Robber
-Knapsack
-Longest Common Subsequence
-Longest Increasing Subsequence
-Coin Change
+### 7. Searching
 
-#### 15. Advanced Concepts
+* Linear Search
+* Binary Search
+* Binary Search on Answer
+* Search in Rotated Sorted Array
 
-Later, I can add:
+### 8. Sorting
 
-Trie
-Segment Tree
-Fenwick Tree
-Advanced Graph Algorithms
-Advanced Dynamic Programming
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Counting Sort
+* Sorting Patterns
 
-### OOP concepts
+### 9. Trees
 
-Practical examples and exercises for understanding:
+* Binary Tree
+* Binary Search Tree
+* DFS
+* Preorder Traversal
+* Inorder Traversal
+* Postorder Traversal
+* BFS / Level Order
+* Height / Depth
+* Balanced Trees
+* Lowest Common Ancestor
+
+### 10. Heap / Priority Queue
+
+* Min Heap
+* Max Heap
+* Heapify
+* Top K Problems
+* Kth Largest / Smallest
+* Priority Queue
+
+### 11. Graphs
+
+* Graph Representation
+* Adjacency Matrix
+* Adjacency List
+* BFS
+* DFS
+* Connected Components
+* Cycle Detection
+* Topological Sort
+* Shortest Path
+* Dijkstra's Algorithm
+* Union Find / DSU
+
+### 12. Recursion & Backtracking
+
+* Recursion Patterns
+* Subsets
+* Permutations
+* Combinations
+* Combination Sum
+* N-Queens
+* Maze Problems
+
+### 13. Greedy Algorithms
+
+* Activity Selection
+* Fractional Knapsack
+* Interval Problems
+* Jump Game
+* Merge Intervals
+
+### 14. Dynamic Programming
+
+* Memoization
+* Tabulation
+* 1D DP
+* 2D DP
+* Fibonacci
+* Climbing Stairs
+* House Robber
+* Knapsack
+* Longest Common Subsequence
+* Longest Increasing Subsequence
+* Coin Change
+
+### 15. Advanced Concepts
+
+* Trie
+* Segment Tree
+* Fenwick Tree
+* Advanced Graph Algorithms
+* Advanced Dynamic Programming
+
+---
+
+## 🧩 OOP Concepts
+
+Practical examples and exercises for understanding Object-Oriented Programming with JavaScript.
 
 * Objects and Classes
 * Constructors
@@ -189,7 +204,7 @@ Practical examples and exercises for understanding:
 * Abstraction
 * Composition
 
-##  My Approach to DSA
+## 🧠 My Approach to DSA
 
 Instead of trying to memorize hundreds of solutions, I am focusing on recognizing **problem-solving patterns**.
 
@@ -253,7 +268,7 @@ The goal is to remember **how to think**, not just **what code to type**.
 
 ---
 
-##  Revision Strategy
+## 🔄 Revision Strategy
 
 This repository is designed to be useful as a quick revision resource.
 
@@ -274,7 +289,7 @@ During revision:
 
 ---
 
-##  Problem-Solving Format
+## 🗂️ Problem-Solving Format
 
 As this repository grows, problems will follow a consistent structure wherever possible:
 
@@ -302,7 +317,7 @@ This makes the repository useful not only for solving problems but also for **qu
 
 ---
 
-##  Roadmap
+## 🚀 Roadmap
 
 This repository will continue to grow topic by topic.
 
@@ -320,17 +335,17 @@ This repository will continue to grow topic by topic.
 * [ ] Heap / Priority Queue
 * [ ] Backtracking
 * [ ] Dynamic Programming
-* [x] OOP with JavaScript
+* [ ] OOP with JavaScript
 * [ ] Problem-Solving Patterns
 * [ ] Interview Revision Notes
 
-##  Language
+## 💻 Language
 
 **JavaScript**
 
 The focus is on using JavaScript to understand the underlying DSA concepts while also becoming comfortable with JavaScript syntax, built-in methods, and data structures.
 
-## Why This Repository Exists
+## 🌱 Why This Repository Exists
 
 I created this repository to keep my DSA and OOP learning organized in one place.
 
@@ -342,7 +357,7 @@ The intention is to learn progressively, document the thinking process, and buil
 
 ---
 
-##  Learning in Public
+## ⭐ Learning in Public
 
 This repository is a work in progress and will evolve as I practice more problems and concepts.
 
